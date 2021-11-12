@@ -21,6 +21,7 @@ You can view the notebook in dynamic form by clicking the following image:
 1. Dowload []().
 2. Dowload []().
 3. Run 'jupyter lab' in the command prompt
+4 . Plotly
 
 
 
