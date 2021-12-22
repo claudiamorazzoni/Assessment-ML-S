@@ -1,4 +1,4 @@
-# Machine Learning and Statistics Assessment
+# Machine Learning and Statistics 
 
 ***
 ## Overview
@@ -31,6 +31,7 @@ This project requires [Python 3.9.0](https://www.python.org/downloads/release/py
 + [statsmodel](https://www.statsmodels.org/stable/index.html)
 + [tensorflow](https://www.tensorflow.org/)
 + [keras](https://keras.io/)
+
 
 #### Also check the [requirements.txt](https://github.com/claudiamorazzoni/Assessment-ML-S/blob/main/requirements.txt) to see the libraries used and their version.
 
