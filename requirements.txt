@@ -1,2 +1,9 @@
 matplotlib
 plotly
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scipy
+Sklearn
+Statsmodel

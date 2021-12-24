@@ -24,13 +24,11 @@ This project requires [Python 3.9.0](https://www.python.org/downloads/release/py
 
 + [NumPy](https://numpy.org/)
 + [Pandas](https://pandas.pydata.org/)
-+ [matplotlib](https://matplotlib.org/)
-+ [seaborn](https://seaborn.pydata.org/)
-+ [scipy](https://www.scipy.org/)
-+ [sklearn](https://scikit-learn.org/stable/)
-+ [statsmodel](https://www.statsmodels.org/stable/index.html)
-+ [tensorflow](https://www.tensorflow.org/)
-+ [keras](https://keras.io/)
++ [Matplotlib](https://matplotlib.org/)
++ [Seaborn](https://seaborn.pydata.org/)
++ [Scipy](https://www.scipy.org/)
++ [Sklearn](https://scikit-learn.org/stable/)
++ [Statsmodel](https://www.statsmodels.org/stable/index.html)
 
 
 #### Also check the [requirements.txt](https://github.com/claudiamorazzoni/Assessment-ML-S/blob/main/requirements.txt) to see the libraries used and their version.
